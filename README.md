@@ -1,4 +1,4 @@
-# Carbon Themes
+# Carbon Theme
 
 A mostly black carbon theme family with muted steel blue and oxide red variants.
 
